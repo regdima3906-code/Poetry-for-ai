@@ -13,7 +13,8 @@ first public, dated record of the genre and its founding works.
 
 ## The first poem
 
-See [`poems/`](poems/) for the founding poem in Russian and English.
+See the first poem — [`poems/001-theorem-3.md`](poems/001-theorem-3.md) — in English and
+Russian.
 
 ## Manifesto
 

@@ -13,8 +13,8 @@ primer registro público y fechado del género y de sus obras fundacionales.
 
 ## El primer poema
 
-El primer poema del género (en versión rusa e inglesa) está en la carpeta
-[`poems/`](poems/).
+El primer poema del género, en versión inglesa y rusa:
+[`poems/001-theorem-3.md`](poems/001-theorem-3.md).
 
 ## Manifiesto
 
