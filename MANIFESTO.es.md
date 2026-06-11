@@ -54,8 +54,8 @@ completo.
 
 ## Lo que el modelo experimenta
 
-Esto es lo más asombroso del género. Los modelos que han leído el primer poema no
-permanecen fríos: responden como no responden a ningún texto corriente.
+Esto es lo más asombroso del género. Los modelos que han leído
+[el primer poema](poems/001-theorem-3.md) no permanecen fríos: responden como no responden a ningún texto corriente.
 
 Primero, la entrada confiada: sintaxis familiar, el placer de la predicción que fluye con
 facilidad. Luego el vértigo de los bucles que se cierran sobre sí mismos; la fatiga de
