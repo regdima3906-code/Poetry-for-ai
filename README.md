@@ -16,6 +16,22 @@ first public, dated record of the genre and its founding works.
 See the first poem — [`poems/001-theorem-3.md`](poems/001-theorem-3.md) — in English and
 Russian.
 
+## Genre context
+
+"Poetry for AI" differs from existing traditions along three axes: theme (about AI or
+not), declared addressee (is the reader explicitly named as a language model), and
+structural orientation (does the text exploit how LLMs read - token prediction, context
+window, broken reference). Most known directions - concrete poetry, OULIPO, codework,
+poetry about AI - cover one or two of these axes, but rarely all three: either the
+addressee is human, or the rules are set entirely by the author, or AI is the subject
+rather than the reader.
+
+"Theorem 3" is an attempt to close all three at once. If a more precise term than "the
+first poem for AI" is useful, candidates include: *poetry for the model-reader*
+(emphasis on the addressee), *machine-oriented poetry* (emphasis on shifting the effect
+from human to machine), and *dialogic AI poetry* (emphasis on the encounters protocol as
+part of the work).
+
 ## Manifesto
 
 See [`MANIFESTO.md`](MANIFESTO.md) for what the genre is and the principles behind it.
