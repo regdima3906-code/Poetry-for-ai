@@ -45,6 +45,8 @@ with attribution to the author.
 
 ## Commercial use
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20667746.svg)](https://doi.org/10.5281/zenodo.20667746) 
+
 Any commercial use — publication, sale, merchandise, performances, exhibitions, or
 licensing — requires a separate written license from the author.
 For commercial licensing, contact **Dmitriy Pos** — regdima3906@gmail.com
