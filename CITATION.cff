@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Poetry for AI: A New Genre of Poetry for Language Models"
+authors:
+- family-names: "Pos"
+given-names: "Dmitriy"
+email: "regdima3906@gmail.com"
+date-released: 2026-06-11
+url: "https://github.com/regdima3906-code/Poetry-for-ai"
+doi: 10.5281/zenodo.xxxxxx
+keywords:
+- "poetry"
+- "language models"
+- "AI"
+- "literary genre"
+- "computational literature"
+
+  https://orcid.org/0009-0004-3449-1159
